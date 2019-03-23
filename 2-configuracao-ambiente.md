@@ -18,7 +18,8 @@ Para iniciar o desenvolvimento com Angular, é necessário a instalação do *No
     >ng new primero-projeto
 
 3. Entre dentro da pasta criada, usando o comando **cd**.
-4. E para deixar nossa aplicação já rodando digite **ng serve**
+4. E para deixar nossa aplicação já rodando digite:
+    >ng serve
 
 ## Estrutura de Pastas
 
